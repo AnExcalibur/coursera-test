@@ -31,7 +31,7 @@ body{
 .nav-link span
 {
   position: relative;
-  left: 10px;
+  text-align: center;
   color: whitesmoke;
 }
 
