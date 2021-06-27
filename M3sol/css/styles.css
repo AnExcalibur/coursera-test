@@ -1,0 +1,68 @@
+body{ 
+  background-color: #AC3B61;
+	font-size: 18px;
+	font-family: 'Ubuntu', sans-serif;
+  box-sizing: border-box;
+}
+
+.navbar-brand {
+  padding: 10px 10px 10px 10px;
+  margin-bottom: 10px ;
+}
+
+#headernav {
+  background-color: #123c69;
+}
+
+.navbar-brand a:hover,.navbar-brand a:focus, a {
+  text-decoration: none;
+}
+
+.navbar-brand h1 {
+  color: #edc7b7;
+  text-shadow: 5px 5px 5px #222; 
+  margin: 0;
+}
+
+.navbar-nav a:hover{
+  background-color: #1E5692;
+}
+
+.nav-link span
+{
+  position: relative;
+  left: 10px;
+  color: whitesmoke;
+}
+
+
+.smol{
+
+  width: 20%;
+  margin: auto;
+}
+
+div > h2 {
+
+  margin-top: 40px;
+  margin-bottom: 10px;
+  color: white;
+  border: 2.5px solid white;
+  border-radius: 40px;
+  padding: 10px 10px 10px 10px;
+  text-shadow: 3px 3px 3px #222;
+
+}
+
+
+.mainsec
+{
+  border: 10px solid #AC3B61;
+  background-color:#edc7b7 ;
+}
+
+.subtitle
+{
+
+  padding-top: 15px;
+}
